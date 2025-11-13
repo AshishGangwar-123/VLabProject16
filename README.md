@@ -13,7 +13,7 @@ Fill a brief description of this experiment here
 <b>Name of Developer | <b> Ashish Kumar Gangwar 
 :--|:--|
 <b> institute | Rajkiya Engineering College Banda <b>  
-<b> Email id |ashishgang******@gmail.com   <b>  
+<b> Email id |ashishkumar@gmail.com   <b>  
 <b> Branch |  Information Technology
 
 ### Contributors List
