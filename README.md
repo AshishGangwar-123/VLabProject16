@@ -20,8 +20,8 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Sumit Kr Patel| Ashutosh Tiwari Sir | IT | sumit@gmail.com| .
-2 | Rama Raman Pandey| Ashutosh Tiwari Sir | IT | ramaramanpandey@gmail.com| 
-3 | Anil| Ashutosh Tiwari Sir | IT | anil@gmail.com| 
-4 | Sanyog Patel| Ashutosh Tiwari Sir | IT | sanyog@gmail.com| 
-5 | shivesh Shukla| Ashutosh Tiwari Sir | IT | example@gmail.com| 
+1 | Sumit Kr Patel| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | sumit@gmail.com| .
+2 | Rama Raman Pandey| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | ramaramanpandey@gmail.com| 
+3 | Anil| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | anil@gmail.com| 
+4 | Sanyog Patel| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | sanyog@gmail.com| 
+5 | shivesh Shukla| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | example@gmail.com| 
