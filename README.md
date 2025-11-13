@@ -4,21 +4,21 @@
 <b>Discipline | <b>Virtual Lab
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Experiment 1 To prove coulomb's Law 
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Arjit Kumar 
+<b>Name of Developer | <b> Ashish Kumar Gangwar 
 :--|:--|
 <b> institute | Rajkiya Engineering College Banda <b>  
-<b> Email id |ashishgangwar7500@gmail.com   <b>  
+<b> Email id |ashishgang******@gmail.com   <b>  
 <b> Branch |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Sumit Kr Patel| student | IT |  | .
 2 | . | . | . | . | .
