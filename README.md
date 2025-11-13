@@ -13,12 +13,15 @@ Fill a brief description of this experiment here
 <b>Name of Developer | <b> Ashish Kumar Gangwar 
 :--|:--|
 <b> institute | Rajkiya Engineering College Banda <b>  
-<b> Email id |ashishgang******@gmail.com   <b>  
+<b> Email id |ashishkumar@gmail.com   <b>  
 <b> Branch |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Sumit Kr Patel| student | IT |  | .
-2 | . | . | . | . | .
+1 | Sumit Kr Patel| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | sumit@gmail.com| .
+2 | Rama Raman Pandey| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | ramaramanpandey@gmail.com| 
+3 | Anil| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | anil@gmail.com| 
+4 | Sanyog Patel| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | sanyog@gmail.com| 
+5 | shivesh Shukla| Ashutosh Tiwari Sir | IT | Rajkiya Engineering College Banda | example@gmail.com| 
