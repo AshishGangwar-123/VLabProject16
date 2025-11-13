@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Ashish Kumar Gangwar 
+<b>Name of Developer | <b> Ashish Kumar
 :--|:--|
 <b> institute | Rajkiya Engineering College Banda <b>  
 <b> Email id |ashishkumar@gmail.com   <b>  
